@@ -1,0 +1,12 @@
+C:\Users\student\source\repos\Gulov_Megafonchik\Gulov_Megafonchik\bin\Debug\Gulov_Megafonchik.exe.config
+C:\Users\student\source\repos\Gulov_Megafonchik\Gulov_Megafonchik\bin\Debug\Gulov_Megafonchik.exe
+C:\Users\student\source\repos\Gulov_Megafonchik\Gulov_Megafonchik\bin\Debug\Gulov_Megafonchik.pdb
+C:\Users\student\source\repos\Gulov_Megafonchik\Gulov_Megafonchik\obj\Debug\Gulov_Megafonchik.csprojAssemblyReference.cache
+C:\Users\student\source\repos\Gulov_Megafonchik\Gulov_Megafonchik\obj\Debug\Gulov_Megafonchik.Megafon.resources
+C:\Users\student\source\repos\Gulov_Megafonchik\Gulov_Megafonchik\obj\Debug\Gulov_Megafonchik.Properties.Resources.resources
+C:\Users\student\source\repos\Gulov_Megafonchik\Gulov_Megafonchik\obj\Debug\Gulov_Megafonchik.csproj.GenerateResource.cache
+C:\Users\student\source\repos\Gulov_Megafonchik\Gulov_Megafonchik\obj\Debug\Gulov_Megafonchik.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\Gulov_Megafonchik\Gulov_Megafonchik\obj\Debug\Gulov_Megafonchik.exe
+C:\Users\student\source\repos\Gulov_Megafonchik\Gulov_Megafonchik\obj\Debug\Gulov_Megafonchik.pdb
+C:\Users\student\source\repos\Gulov_Megafonchik\Gulov_Megafonchik\obj\Debug\Gulov_Megafonchik.Form2.resources
+C:\Users\student\source\repos\Gulov_Megafonchik\Gulov_Megafonchik\obj\Debug\Gulov_Megafonchik.About.resources
