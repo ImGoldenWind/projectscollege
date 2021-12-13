@@ -1,0 +1,10 @@
+C:\Users\student\source\repos\marafon_by_Gulov\marafon_by_Gulov\bin\Debug\marafon_by_Gulov.exe.config
+C:\Users\student\source\repos\marafon_by_Gulov\marafon_by_Gulov\bin\Debug\marafon_by_Gulov.exe
+C:\Users\student\source\repos\marafon_by_Gulov\marafon_by_Gulov\bin\Debug\marafon_by_Gulov.pdb
+C:\Users\student\source\repos\marafon_by_Gulov\marafon_by_Gulov\obj\Debug\marafon_by_Gulov.csprojAssemblyReference.cache
+C:\Users\student\source\repos\marafon_by_Gulov\marafon_by_Gulov\obj\Debug\marafon_by_Gulov.Form1.resources
+C:\Users\student\source\repos\marafon_by_Gulov\marafon_by_Gulov\obj\Debug\marafon_by_Gulov.Properties.Resources.resources
+C:\Users\student\source\repos\marafon_by_Gulov\marafon_by_Gulov\obj\Debug\marafon_by_Gulov.csproj.GenerateResource.cache
+C:\Users\student\source\repos\marafon_by_Gulov\marafon_by_Gulov\obj\Debug\marafon_by_Gulov.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\marafon_by_Gulov\marafon_by_Gulov\obj\Debug\marafon_by_Gulov.exe
+C:\Users\student\source\repos\marafon_by_Gulov\marafon_by_Gulov\obj\Debug\marafon_by_Gulov.pdb
